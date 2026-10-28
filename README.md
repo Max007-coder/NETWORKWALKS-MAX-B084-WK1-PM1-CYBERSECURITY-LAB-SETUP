@@ -255,6 +255,17 @@ Cybersecurity Intern — Batch B084
 
 ---
 
+# 🏷️ Acknowledgements
+
+This project is part of the Cybersecurity & Pentesting internship program run by **@NETWORKWALKS** —
+thanks to @NETWORKWALKS and the instruction team for the weekly projects, lab guidance and reviews.
+
+- Program: Cybersecurity at Networkwalks — Batch B084, Week 01
+- Site: https://networkwalks.com
+- GitHub: https://github.com/NETWORKWALKS
+
+---
+
 ## 📌 Project Information
 
 **Program Name:** Cybersecurity at Networkwalks | **Batch:** B084 | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
